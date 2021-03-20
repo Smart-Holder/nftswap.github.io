@@ -21,9 +21,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_1.6d24b5f80fc79f76b4fb.js"
+      "nft101-cli/js/nft101-cli_1.f4f44dfc147e9cb5401e.js"
     ],
-    "hash": "6d24b5f80fc79f76b4fb",
+    "hash": "f4f44dfc147e9cb5401e",
     "parents": [
       "low",
       "nft101-cli_index",
@@ -31,13 +31,13 @@
       "runtime"
     ],
     "modules": [
+      "0Mn9",
       "2HVw",
       "3Tn3",
-      "I5gG",
+      "EvYB",
       "TbDC",
       "ZjpE",
       "hzeW",
-      "kDtI",
       "ma/0",
       "mypO"
     ]
@@ -48,9 +48,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_2.4c1f2b603e36abc324fe.js"
+      "nft101-cli/js/nft101-cli_2.e585e194d779303fb8e1.js"
     ],
-    "hash": "4c1f2b603e36abc324fe",
+    "hash": "e585e194d779303fb8e1",
     "parents": [
       "low",
       "nft101-cli_index",
@@ -74,9 +74,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_3.7272489701f046723d8a.js"
+      "nft101-cli/js/nft101-cli_3.159acc04cccd5cb47be6.js"
     ],
-    "hash": "7272489701f046723d8a",
+    "hash": "159acc04cccd5cb47be6",
     "parents": [
       "low",
       "nft101-cli_index",
@@ -100,9 +100,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_4.ab927b2497330f0352c7.js"
+      "nft101-cli/js/nft101-cli_4.810dbbb165e3dc69bfbe.js"
     ],
-    "hash": "ab927b2497330f0352c7",
+    "hash": "810dbbb165e3dc69bfbe",
     "parents": [
       "low",
       "nft101-cli_index",
@@ -125,9 +125,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_5.c5b212e6350a25f790c7.js"
+      "nft101-cli/js/nft101-cli_5.5e2df266be12f6007d71.js"
     ],
-    "hash": "c5b212e6350a25f790c7",
+    "hash": "5e2df266be12f6007d71",
     "parents": [
       "low",
       "nft101-cli_index",
@@ -150,9 +150,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_6.92e00dcecfca01112cf2.js"
+      "nft101-cli/js/nft101-cli_6.22328e6c98a894947b24.js"
     ],
-    "hash": "92e00dcecfca01112cf2",
+    "hash": "22328e6c98a894947b24",
     "parents": [
       "low",
       "nft101-cli_index",
@@ -174,9 +174,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_7.24b0e1070275e7a14a21.js"
+      "nft101-cli/js/nft101-cli_7.abf1812dcb98e9aeb701.js"
     ],
-    "hash": "24b0e1070275e7a14a21",
+    "hash": "abf1812dcb98e9aeb701",
     "parents": [
       "low",
       "nft101-cli_index",
@@ -198,9 +198,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_8.b5a569a07a65e4a79619.js"
+      "nft101-cli/js/nft101-cli_8.7d89e3442f2e7fe928c1.js"
     ],
-    "hash": "b5a569a07a65e4a79619",
+    "hash": "7d89e3442f2e7fe928c1",
     "parents": [
       "low",
       "nft101-cli_index",
@@ -221,9 +221,9 @@
       "index"
     ],
     "files": [
-      "nft101-cli/js/nft101-cli_index.ac9e704c9660769f32c2.js"
+      "nft101-cli/js/nft101-cli_index.7ed147504a987fd3a1fa.js"
     ],
-    "hash": "ac9e704c9660769f32c2",
+    "hash": "7ed147504a987fd3a1fa",
     "parents": [],
     "modules": [
       "/qpK",
@@ -233,6 +233,7 @@
       "34dh",
       "7tYi",
       "8KKg",
+      "904F",
       "A7Ne",
       "AjAq",
       "AsFs",
@@ -249,7 +250,6 @@
       "PYTe",
       "QroC",
       "R4g2",
-      "R5pS",
       "RiW2",
       "S0JA",
       "S5jy",
@@ -1293,9 +1293,9 @@
       "runtime"
     ],
     "files": [
-      "nft101-cli/js/runtime.js?ac59e94e4f7f876d83a6"
+      "nft101-cli/js/runtime.js?6bce65e12e56167dcea1"
     ],
-    "hash": "ac59e94e4f7f876d83a6",
+    "hash": "6bce65e12e56167dcea1",
     "parents": [],
     "modules": []
   },
