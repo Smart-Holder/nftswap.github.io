@@ -5,9 +5,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_1.5ccbd0297fbbe642e212.js"
+      "nft101-cli/js/nft101-cli_1.c3fe8f7464b18994359f.js"
     ],
-    "hash": "5ccbd0297fbbe642e212",
+    "hash": "c3fe8f7464b18994359f",
     "parents": [
       "nft101-cli_index",
       "nft101-cli_vendors",
@@ -42,9 +42,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_2.c532acab705fbc716a35.js"
+      "nft101-cli/js/nft101-cli_2.e7e34dd6556aecec685e.js"
     ],
-    "hash": "c532acab705fbc716a35",
+    "hash": "e7e34dd6556aecec685e",
     "parents": [
       "nft101-cli_index",
       "nft101-cli_vendors",
@@ -77,9 +77,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_3.f2ede87765e259718afd.js"
+      "nft101-cli/js/nft101-cli_3.64ef3ad16de52a0f5d9c.js"
     ],
-    "hash": "f2ede87765e259718afd",
+    "hash": "64ef3ad16de52a0f5d9c",
     "parents": [
       "nft101-cli_index",
       "nft101-cli_vendors",
@@ -89,8 +89,8 @@
       "3Tn3",
       "TklU",
       "ZjpE",
-      "cWfQ",
       "csPc",
+      "hErl",
       "hzeW",
       "ma/0",
       "yCRm"
@@ -99,8 +99,8 @@
       "src/com/footer.tsx",
       "src/assets/details.css",
       "src/com/nav.tsx",
-      "src/pages/details/index.tsx",
       "src/util.ts",
+      "src/pages/details/index.tsx",
       "src/com/loading.tsx",
       "src/assets/logo.jpeg",
       "src/assets/details.css"
@@ -112,9 +112,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_4.5f0fcce38e0f3ff1f156.js"
+      "nft101-cli/js/nft101-cli_4.8b31a123a2ea330410be.js"
     ],
-    "hash": "5f0fcce38e0f3ff1f156",
+    "hash": "8b31a123a2ea330410be",
     "parents": [
       "nft101-cli_index",
       "nft101-cli_vendors",
@@ -145,9 +145,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_5.ebe4dc5868ca77dac8dd.js"
+      "nft101-cli/js/nft101-cli_5.93f1b93448fd4b673343.js"
     ],
-    "hash": "ebe4dc5868ca77dac8dd",
+    "hash": "93f1b93448fd4b673343",
     "parents": [
       "nft101-cli_index",
       "nft101-cli_vendors",
@@ -178,9 +178,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_6.0257249817c6fa4c3e55.js"
+      "nft101-cli/js/nft101-cli_6.dd6f36fa68c741849697.js"
     ],
-    "hash": "0257249817c6fa4c3e55",
+    "hash": "dd6f36fa68c741849697",
     "parents": [
       "nft101-cli_index",
       "nft101-cli_vendors",
@@ -209,9 +209,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_7.eb9f54802bbee290cda1.js"
+      "nft101-cli/js/nft101-cli_7.ba093ab1c6c928b079b9.js"
     ],
-    "hash": "eb9f54802bbee290cda1",
+    "hash": "ba093ab1c6c928b079b9",
     "parents": [
       "nft101-cli_index",
       "nft101-cli_vendors",
@@ -240,9 +240,9 @@
     "initial": false,
     "names": [],
     "files": [
-      "nft101-cli/js/nft101-cli_8.5917476088ec9dcb4d10.js"
+      "nft101-cli/js/nft101-cli_8.0f26dccd17fcb76817bf.js"
     ],
-    "hash": "5917476088ec9dcb4d10",
+    "hash": "0f26dccd17fcb76817bf",
     "parents": [
       "nft101-cli_index",
       "nft101-cli_vendors",
@@ -267,15 +267,14 @@
       "index"
     ],
     "files": [
-      "nft101-cli/js/nft101-cli_index.66e436630505de6c235b.js"
+      "nft101-cli/js/nft101-cli_index.a451561ba4ef0fab8b91.js"
     ],
-    "hash": "66e436630505de6c235b",
+    "hash": "a451561ba4ef0fab8b91",
     "parents": [],
     "modules": [
       "/qpK",
       "0K2p",
       "0c/L",
-      "1/hA",
       "2k9b",
       "34dh",
       "7tYi",
@@ -317,6 +316,7 @@
       "gQKn",
       "hvwI",
       "ity+",
+      "kCw0",
       "le7b",
       "mCH4",
       "n/9H",
@@ -339,7 +339,6 @@
       "src/models/web3/nfts.ts",
       "deps/web3z/errno.ts",
       "src/models/web3/index.ts efe902e1a5f05262c55a4c8d6a03af36",
-      "config.js",
       "src/assets/media/FoundersGroteskWeb-Regular.woff2",
       "node_modules/stream-browserify/node_modules/readable-stream/lib/internal/streams util",
       "external \"fs\"",
@@ -381,6 +380,7 @@
       "src/models/substrate/index.ts",
       "node_modules/@ethersproject/signing-key/node_modules/bn.js/lib buffer",
       "src/assets/all.css",
+      "config.js",
       "index.tsx",
       "src/assets/all.css",
       "src/com/dialog.tsx",
@@ -2193,9 +2193,9 @@
       "runtime"
     ],
     "files": [
-      "nft101-cli/js/runtime.js?b671641c6981afc51b95"
+      "nft101-cli/js/runtime.js?0a95fbe5d27664af84d9"
     ],
-    "hash": "b671641c6981afc51b95",
+    "hash": "0a95fbe5d27664af84d9",
     "parents": [],
     "modules": [],
     "includes": []
